@@ -15,21 +15,21 @@ export class DocumentsComponent{
       description: "aasdfasdf",
       file_url: 'http://google.com',
       updated_at: '2/2',
-      image_url:'asdf'
+      image_url:'https://static.pexels.com/photos/461064/pexels-photo-461064.jpeg'
     },
     {
       title: "My 2nd Doc",
       description: "aasdfasdf",
       file_url: 'http://google.com',
       updated_at: '2/2',
-      image_url:'asdf'
+      image_url:'https://static.pexels.com/photos/461064/pexels-photo-461064.jpeg'
     },
     {
       title: "My last Doc",
       description: "aasdfasdf",
       file_url: 'http://google.com',
       updated_at: '2/2',
-      image_url:'asdf'
+      image_url:'https://static.pexels.com/photos/461064/pexels-photo-461064.jpeg'
     }
   ]
 }
