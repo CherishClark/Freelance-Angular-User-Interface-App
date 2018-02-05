@@ -6,3 +6,14 @@ body {
 .headline {
   color: white;
 }
+
+.card {
+  width: 350px;
+  margin: 5px;
+
+}
+
+.container .app-body {
+  display: flex;
+  justify-content: center;
+}
