@@ -17,3 +17,19 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.nav {
+  display: flex;
+  flex-wrap: flex;
+}
+
+.nav li, ul {
+  width: fit-content;
+  display: flex;
+  flex-wrap: flex;
+}
+
+.nav a {
+  display:flex;
+  flex-wrap: flex;
+}
