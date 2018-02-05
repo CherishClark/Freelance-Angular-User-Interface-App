@@ -16,7 +16,7 @@ export class ProposalNewComponent {
   submitted: boolean = false;
 
   constructor(
-    private proposalService: ProposalService;
+    private proposalService: ProposalService,
     ){}
 
   createProposal(proposal) {
